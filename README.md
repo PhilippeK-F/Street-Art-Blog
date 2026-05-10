@@ -18,17 +18,6 @@ Page Galerie :
 - Gestion des formats portrait/paysage via grid-row: span 2
 - Sidebar avec commentaires et événements à suivre
 
-Responsive Design :
-
-Images adaptatives avec la balise <picture> et srcset sur 3 breakpoints :
-
-- BreakpointImage servieMobile (< 780px)*-mobile.jpgTablette (< 980px)*-tablette.jpgDesktop (≥ 981px)*-desktop.jpg
-
-Media queries CSS :
-
-- css@media screen and (min-width: 780px) { ... }
-- @media screen and (min-width: 980px) { ... }
-
 Stack technique :
 
 - Outil Usage HTML5 Structure sémantique (article, section, aside, time, picture, blockquote, cite)
