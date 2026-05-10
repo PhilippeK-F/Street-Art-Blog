@@ -34,13 +34,6 @@ Stack technique :
 - Outil Usage HTML5 Structure sémantique (article, section, aside, time, picture, blockquote, cite)
 - CSS3 Mise en page, responsive designCSS Grid Galerie photos adaptive FlexboxNavigation, sections, footerFont Awesome 5Icônes réseaux sociauxGoogle FontsMali (titres) + Source Sans Pro (texte)
 
-Comment utiliser ce projet :
-
-Clone le repo :
-
-- bashgit clone https://github.com/TON_USERNAME/Street-Art-Blog.git
-- Ouvre index.html dans ton navigateur — aucune installation requise.
-
 Auteur :
 Philippe Kirstetter-Fender
 Exercice d'intégration web — formation 3W Academy
